@@ -1,0 +1,7 @@
+[submodule "courier/themes/hugo-theme-tokiwa"]
+	path = courier/themes/hugo-theme-tokiwa
+	url = https://github.com/heyeshuang/hugo-theme-tokiwa.git
+[submodule "courier/public"]
+	path = courier/public
+	url = git@github.com:twilightcourier/twilightcourier.github.io.git
+	branch = main
